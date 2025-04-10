@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "ekfjjfj";
+    std::cout << "ekfjjfsfsgsgsgsxgsgsdgsgj";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
